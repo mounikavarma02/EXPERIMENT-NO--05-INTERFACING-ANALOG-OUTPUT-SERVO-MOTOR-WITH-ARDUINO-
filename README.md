@@ -49,10 +49,11 @@ An external controller (such as the Arduino) tells the servo where to go with a 
 
 CIRCUIT DIAGRAM
  
- 
- ![image](https://user-images.githubusercontent.com/36288975/163544618-6eb8a7b5-7f1a-428a-8d9f-fd899b145efb.png)
+ ![167765871-7ccc7723-b0df-46aa-bc0f-023037f1307e](https://user-images.githubusercontent.com/78891098/174421225-9ab20945-338e-4000-9b04-f45c426a9f53.png)
 
-### FIGURE 04 CIRCUIT DIAGRAM
+ 
+
+
 
 ### PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
